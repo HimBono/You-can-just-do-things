@@ -1,7 +1,7 @@
 export const HeroSection = () => {
   return (
     <div className="flex flex-col items-center justify-center min-h-[70vh] px-4 text-center">
-      <h1 className="text-5xl md:text-7xl lg:text-8xl font-bold mb-6 tracking-tight terminal-glow">
+      <h1 className="text-5xl md:text-7xl lg:text-8xl font-bold mb-6 tracking-tight">
         <span className="gradient-text">You can just</span>
         <br />
         <span className="text-terminal-green">do things</span>

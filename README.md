@@ -1,18 +1,19 @@
-# Welcome to your Lovable project
+## Work in progress (unfinished)
+<img width="1109" height="1004" alt="image" src="https://github.com/user-attachments/assets/81205f43-6488-489a-b87a-20abe06e0da4" />
 
-## Project info
+A minimalist AI-powered goal-breaking app that transforms overwhelming objectives into actionable roadmaps with structured tasks and progress tracking.
 
-**URL**: https://lovable.dev/projects/e1f67239-fcfd-4dce-b83a-1d879b80c650
+✨ Features
 
-## How can I edit this code?
+AI-Powered Goal Breaking - Input any goal and get a structured roadmap with main milestones and actionable tasks
+Progress Tracking - Check off completed tasks and track your overall progress
+Clean, Minimal UI - Distraction-free interface focused on getting things done
+Mobile Responsive - Works seamlessly on desktop and mobile devices
+Instant Results - Get your roadmap in seconds with real-time generation
 
-There are several ways of editing your application.
+Try it out here https://goal-roadmap-ai.lovable.app/
 
-**Use Lovable**
-
-Simply visit the [Lovable Project](https://lovable.dev/projects/e1f67239-fcfd-4dce-b83a-1d879b80c650) and start prompting.
-
-Changes made via Lovable will be committed automatically to this repo.
+or 
 
 **Use your preferred IDE**
 
@@ -60,14 +61,3 @@ This project is built with:
 - shadcn-ui
 - Tailwind CSS
 
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/e1f67239-fcfd-4dce-b83a-1d879b80c650) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)

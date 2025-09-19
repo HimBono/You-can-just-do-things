@@ -2,6 +2,7 @@ import { useState } from "react";
 import { HeroSection } from "@/components/HeroSection";
 import { GoalInput } from "@/components/GoalInput";
 import { RoadmapDisplay } from "@/components/RoadmapDisplay";
+import { SettingsModal } from "@/components/SettingsModal";
 import { toast } from "sonner";
 
 // Mock AI response for demo - replace with actual AI API call
@@ -108,6 +109,8 @@ const Index = () => {
 
   return (
     <div className="min-h-screen bg-gradient-hero">
+      <SettingsModal />
+      
       <div className="container mx-auto px-4 py-8">
         <HeroSection />
         
